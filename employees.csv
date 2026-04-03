@@ -1,0 +1,9 @@
+EmployeeID,Name,Department,Age,Salary,Experience,JoinDate
+1,Amit,IT,25,60000,2,2022-06-01
+2,Riya,HR,30,50000,5,2019-03-15
+3,Rahul,Finance,28,,3,2021-07-10
+4,Neha,IT,35,90000,10,2015-01-20
+5,Arjun,Sales,26,45000,2,2023-02-11
+6,Priya,HR,29,52000,,2020-09-25
+7,Karan,IT,31,70000,6,2018-11-30
+8,Anjali,Finance,27,48000,3,2021-04-18

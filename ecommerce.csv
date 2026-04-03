@@ -1,0 +1,7 @@
+OrderID,UserID,Product,Category,Price,Discount,FinalPrice,PaymentMethod,OrderDate
+2001,U101,Phone,Electronics,20000,2000,18000,UPI,2024-02-01
+2002,U102,Shoes,Fashion,3000,500,2500,COD,2024-02-02
+2003,U103,Watch,Accessories,5000,0,5000,Card,2024-02-03
+2004,U101,Laptop,Electronics,70000,5000,65000,UPI,2024-02-05
+2005,U104,Shirt,Fashion,1500,200,1300,COD,2024-02-06
+2006,U105,Headphones,Electronics,,300,1700,Card,2024-02-07
